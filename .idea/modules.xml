@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sunjob-hu.iml" filepath="$PROJECT_DIR$/sunjob-hu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunjob001/sunjob001.iml" filepath="$PROJECT_DIR$/sunjob001/sunjob001.iml" />
     </modules>
   </component>
 </project>
